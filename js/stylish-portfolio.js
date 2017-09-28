@@ -63,7 +63,7 @@ function price(x)
 {
 	if(x == 1)
 	{
-		document.getElementById("pricing").style.backgroundColor="#9933cc";
+		document.getElementById("pricing").style.backgroundColor="#ffaa00";
 		document.getElementById("description").style.color="#ffffff";
 		document.getElementById("description").innerHTML ="<h3 style=\"text-align: left;\">Washing Prices</h3><table style=\"font-size: 70%\"><tr><th> Item </th><th> Price </th></tr><tr><td> Shirt</td><td> &#x20B9; 10</td></tr><tr><td> Trouser</td><td> &#x20B9; 10</td></tr><tr><td> T-shirt</td><td> &#x20B9; 8</td></tr><tr><td> Boxers(Shorts)</td><td> &#x20B9; 8</td></tr><tr><td> Towels,Napkins</td><td> &#x20B9; 10</td></tr><tr><td> Bedsheets</td><td> &#x20B9; 15</td></tr><table>";
 	}
@@ -71,19 +71,19 @@ function price(x)
 
 	else if(x == 2)
 	{
-		document.getElementById("pricing").style.backgroundColor="#9933cc";
+		document.getElementById("pricing").style.backgroundColor="#ffaa00";
 		document.getElementById("description").style.color="#ffffff";
 		document.getElementById("description").innerHTML ="<h3 style=\"text-align: left;\">Pressing Prices</h3><table style=\"font-size: 70%\"><tr><th> Item </th><th> Price </th></tr><tr><td> Shirt</td><td> &#x20B9; 7</td></tr><tr><td> Trouser</td><td> &#x20B9; 7</td></tr><tr><td> T-shirt</td><td> &#x20B9; 6</td></tr><tr><td> Boxers(Shorts)</td><td> &#x20B9; 5</td></tr><table><br><br>";
 	}
 	else if(x == 3)
 	{
-		document.getElementById("pricing").style.backgroundColor="#9933cc";
+		document.getElementById("pricing").style.backgroundColor="#ffaa00";
 		document.getElementById("description").style.color="#ffffff";
 		document.getElementById("description").innerHTML ="<h3 style=\"text-align: left;\">StainRemoval Prices</h3><table style=\"font-size: 70%\"><tr><th> Type of Stain </th><th> Price </th></tr><tr><td> Tea,Coffee,Juice,Soy Sauce</td><td> &#x20B9; 20</td></tr><tr><td> Blood,Ink,wine</td><td> &#x20B9; 25</td></tr><tr><td> Oil,Grease,Ring Around the Collar </td><td> &#x20B9; 35</td></tr><tr><td> Lipstick,Ball-Point pen,Chocolate</td><td> &#x20B9; 15</td></tr><tr><td> Curry,Gravy,Salad dressing,Chewing Gum</td><td> &#x20B9; 20</td></tr><tr><td> Mud,Rust</td><td> &#x20B9; 25</td></tr><tr><td> Non-Water Soluble Ink</td><td> &#x20B9; 35</td></tr><table>";
 	}
 	else if(x == 4)
 	{
-		document.getElementById("pricing").style.backgroundColor="#9933cc";
+		document.getElementById("pricing").style.backgroundColor="#ffaa00";
 		document.getElementById("description").style.color="#ffffff";
 		document.getElementById("description").innerHTML ="<h3 style=\"text-align: left;\">DryCleaning Prices</h3><table style=\"font-size: 70%\"><tr><th> Item </th><th> Price </th></tr><tr><td> Shirt</td><td> &#x20B9; 10</td></tr><tr><td> Trouser</td><td> &#x20B9; 10</td></tr><tr><td> T-shirt</td><td> &#x20B9; 8</td></tr><tr><td> Boxers(Shorts)</td><td> &#x20B9; 8</td></tr><tr><td> Towels,Napkins</td><td> &#x20B9; 10</td></tr><tr><td> Bedsheets</td><td> &#x20B9; 15</td></tr><table>";
 	}
