@@ -90,4 +90,19 @@
 			</div>
 		</form>
 	</div>
+	
+	<script>
+		function showPass()
+		{
+			var x = document.getElementById("loginPassword");
+			if (x.type === "password")
+			{
+				x.type = "text";
+			}
+			else
+			{
+				x.type = "password";
+			}
+		}
+	</script>
 </body>
