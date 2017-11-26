@@ -80,13 +80,13 @@ hr {
 	border: 1px solid #69a74e;
 }
 
-.login_block .login_form .btn_group a.login_btn {
+.login_block .login_form .btn_group button.login_btn {
     color: GhostWhite;
 	background-color: #0066ff;
 	border: 1px solid #0066ff;
 }
 
-.login_block .login_form .btn_group a.login_btn:hover {
+.login_block .login_form .btn_group button.login_btn:hover {
 	background-color: GhostWhite;
 	color:#0066ff;
 	border: 1px solid #0066ff;
